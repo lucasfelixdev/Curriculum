@@ -1,6 +1,6 @@
 # PROJETO CURRÍCULO
 Esse foi meu primeiro projeto utilizando HTML e CSS.<br>
-Neste repositório eu estruturei através dos conceitos das tags HTML se esforçando para usar a semântica de forma correta, assim como a estilização através do CSS.
+Neste repositório eu estruturei um currículo através de conceitos das tags HTML esforçando-me para usar a semântica de forma correta, assim como a estilização através do CSS.
 
 
 ### TECNOLOGIAS USADAS NESTE PROJETO:
